@@ -19,7 +19,7 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "Tipeng Botzོ" //namabot kalian
-global.ownername= "Tipeng Host" //nama kalian
+global.ownername= "TIPENG JB REAL" //nama kalian
 global.myweb ="https://www.instagram.com/tipeng_shop" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCljdv4OWuZV9RkDJLv_-AJg" //bebas asal jan hapus
 global.github = "https://github.com/tipength/" //bebas
