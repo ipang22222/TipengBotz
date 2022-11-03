@@ -20,10 +20,10 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Tipeng Botzོ" //namabot kalian
 global.ownername= "Tipeng Host" //nama kalian
-global.myweb ="https://www.instagram.com/irfantrio.sptra" //bebas asal jan hapus
+global.myweb ="https://www.instagram.com/tipeng_shop" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCljdv4OWuZV9RkDJLv_-AJg" //bebas asal jan hapus
-global.github = "https://github.com/ipang22222/" //bebas
-global.email = "tipenghost@yahoo.com" //bebas
+global.github = "https://github.com/tipength/" //bebas
+global.email = "tipengofficial4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6282136031499" // nomor wa kalian
 global.ownernomerr = "+6282136031499" //nmr wa kalian
