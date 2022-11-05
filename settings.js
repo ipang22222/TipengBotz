@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Tipeng Botzོ" //namabot kalian
-global.ownername= "TIPENG JB REAL" //nama kalian
+global.botname = "FTMM Botzོ" //namabot kalian
+global.ownername= "FTMN" //nama kalian
 global.myweb ="https://www.instagram.com/tipeng_shop" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCljdv4OWuZV9RkDJLv_-AJg" //bebas asal jan hapus
 global.github = "https://github.com/tipength/" //bebas
-global.email = "tipengofficial4@gmail.com" //bebas
+global.email = "ftmngz3@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6282136031499" // nomor wa kalian
-global.ownernomerr = "+6282136031499" //nmr wa kalian
+global.ownernomer = "6285711531857" // nomor wa kalian
+global.ownernomerr = "+6285711531857" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282136031499"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Tipengbot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Tipeng Botz' //sticker wm ganti nama kalian
+global.owner = ["6285711531857,6282136031499"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© FTMNbot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh FTMN BOTZ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
